@@ -45,3 +45,4 @@ A scalable, end-to-end Medical Knowledge Graph built with Python and Neo4j, stor
 ├── main.py              # Main ETL pipeline with UNWIND batch ingestion & indexing logic
 ├── config.example.py    # Database connection configuration template
 └── README.md            # Project documentation and visual showcase
+temp.json is first 1000 examples of medical_json 
